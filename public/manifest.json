@@ -1,0 +1,78 @@
+{
+  "name": "MuscleUP - Acompanhamento de Treinos",
+  "short_name": "MuscleUP",
+  "description": "Aplicativo para acompanhamento de treinos e progresso de musculação",
+  "theme_color": "#f43f5e",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "id": "/",
+  "icons": [
+    {
+      "src": "/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Meus Treinos",
+      "short_name": "Treinos",
+      "description": "Ver meus treinos",
+      "url": "/workouts",
+      "icons": [{ "src": "/icons/shortcuts/workouts.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Meu Progresso",
+      "short_name": "Progresso",
+      "description": "Visualizar meu progresso",
+      "url": "/progress",
+      "icons": [{ "src": "/icons/shortcuts/progress.png", "sizes": "192x192" }]
+    }
+  ]
+}
