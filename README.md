@@ -59,3 +59,4 @@ O aplicativo pode ser implantado na Vercel ou Firebase.
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 # muscleup-app-pwa
 # muscleup-app-pwa
+# muscleup-app-pwa
